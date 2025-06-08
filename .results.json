@@ -5,15 +5,15 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "start": "2025-06-08T16:39:34.518Z",
-    "end": "2025-06-08T16:39:35.670Z",
-    "duration": 1152
+    "start": "2025-06-08T16:52:14.378Z",
+    "end": "2025-06-08T16:52:15.128Z",
+    "duration": 750
   },
   "tests": [
     {
       "title": "returns an array with title case tutorial names",
       "fullTitle": "index.js titleCased() returns an array with title case tutorial names",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -24,7 +24,7 @@
     {
       "title": "returns an array with title case tutorial names",
       "fullTitle": "index.js titleCased() returns an array with title case tutorial names",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
